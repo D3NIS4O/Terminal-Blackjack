@@ -72,11 +72,11 @@
 
 
 
-5. What More Could You Do?
-•	Improvements:
-o	User Interface: Add a graphical or web-based UI for a more engaging experience.
-o	Multiple Rounds: Include game statistics and allow multiple rounds with tracking for wins/losses.
-o	Deck Management: Use a realistic deck of 52 cards instead of random generation to mimic actual Blackjack rules.
-o	Advanced Betting: Add features like doubling down, splitting hands, or insurance bets.
-o	Multiplayer: Enable multiple players to participate in the game.
-o	AI Enhancements: Make the dealer's logic customizable (e.g., mimic human-like decisions).
+5. What More Could You Do?  
+•	Improvements:  
+&emsp;o	User Interface: Add a graphical or web-based UI for a more engaging experience.  
+&emsp;o	Multiple Rounds: Include game statistics and allow multiple rounds with tracking for wins/losses.  
+&emsp;o	Deck Management: Use a realistic deck of 52 cards instead of random generation to mimic actual Blackjack rules.  
+&emsp;o	Advanced Betting: Add features like doubling down, splitting hands, or insurance bets.  
+&emsp;o	Multiplayer: Enable multiple players to participate in the game.  
+&emsp;o	AI Enhancements: Make the dealer's logic customizable (e.g., mimic human-like decisions).  
